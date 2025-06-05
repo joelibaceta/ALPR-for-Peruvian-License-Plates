@@ -1,2 +1,14 @@
 *.pt
 *.pth
+alprenv
+__pycache__
+*.pyc
+*.log
+*.aux
+*.mp4
+*.pt
+test.py
+.DS_Store
+debug_plates/
+optimizer.py
+data
